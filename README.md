@@ -1,4 +1,4 @@
-# config-gitscm-win
+# gitscm-config-win
 ---
 
 ### Basic instructions for configuration of gitbash (git-scm for Windows).
