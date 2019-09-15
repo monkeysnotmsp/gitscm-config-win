@@ -3,6 +3,11 @@
 
 ### Basic instructions for configuration of gitbash (git-scm for Windows).
 
+Download and install git from https://git-scm.com/downloads
+
+When installing select use Git and optional Unix tools from the command prompt.
+
+
 #### Download the zip file of this repository and extract somewhere convenient.
 ---
 
@@ -12,7 +17,7 @@
 
 $ cd ~
 
-$ git config --global user.name "name"
+$ git config --global user.name "your name"
 
 $ git config --global user.email "addy@server.com"
 
