@@ -1,4 +1,4 @@
-# gitscm-config-win
+# config-gitscm-win
 ---
 
 ### Basic instructions for configuration of gitbash (git-scm for Windows).
@@ -53,4 +53,3 @@ https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-th
 https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
 
 
-# gitscm-config-win
